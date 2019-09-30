@@ -157,11 +157,11 @@ void loop() {
     
     if (msg != 0) {                              // le message n'est pas vide
       // parsing du message
-      switch (msg >> 7) {                        // lecture du bit 8
+      switch (msg >> 7) {                        // lecture du bit 7
         case 0 :                                 // le message concerne la rotation
           if (temp == 0) {
             byte x, y;                           // declaration de 2 variables temporaires pour le sens et la porte choisie
-            if (msg >> 6)                        // sens de sortie
+            if ((msg >> 6) & 0x1)                // sens de sortie
               x = 'R';
             else
               x = 'F';
@@ -188,7 +188,7 @@ void loop() {
             break;
           }
         case 1 :                                     // autres que la rotation
-          switch (msg >> 6) {
+          switch ((msg >> 6) & 0x1) {
             case 0 :                                 // lumiere cabine
               switch (msg & 0x1F) {                  // Lecture des 6 derniers bits
                 case 0 :                             // eteindre la lumiere
