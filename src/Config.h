@@ -1,7 +1,7 @@
 /*
    Config.h
-
 */
+
 
 
 
@@ -11,7 +11,7 @@
 
 #include <Arduino.h>
 
-#define DEBUG
+//#define DEBUG
 
 #define CONFIG 1
 
