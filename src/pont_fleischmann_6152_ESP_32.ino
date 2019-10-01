@@ -115,7 +115,7 @@ void setup (void) {
   /*************** Initialisation du pont face voie 1 ***************/
 
   parcours->init();
-  //while (hall1->getCount() == 0)             // tant que le compteur de hall1 est egal a 0
+  while (hall1->getCount() == 0)             // tant que le compteur de hall1 est egal a 0
   Blink::feux();
 
   // si le compteur de hall1 est egal a 1
