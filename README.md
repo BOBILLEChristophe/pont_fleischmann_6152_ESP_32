@@ -13,7 +13,7 @@ Le programme cherche à chaque fois le chemin le plus court pour se rendre d'une
 A voir sur Youtube : https://youtu.be/Rx7vND9eew4
 
 
-[![Regarder la vidéo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/Rx7vND9eew4))
+[![Regarder la vidéo]()]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/Rx7vND9eew4))
 
 
 
