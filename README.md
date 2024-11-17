@@ -10,7 +10,7 @@ Le programme sur l'ESP32 est écrit en C/C++ au travers de l'IDE Arduino.
 
 Le programme cherche à chaque fois le chemin le plus court pour se rendre d'une porte à une autre. Il gère le retournement, c'est à dire qu'une locomotive entrée en avant sur une voie peut sortir en arrière sur une autre. Dans ce cas, la polarité des rails est automatiquement inversée.
 
-Regarder sur Youtube : https://youtu.be/Rx7vND9eew4
+Regarder sur Youtube : https://youtu.be/Rx7vND9eew4 et https://youtu.be/f0EDXkNKcx0?si=opdQLdYsIbUta14a
 
 <img src="_dsc8407-0eacd.jpg" alt="Pont">
 
