@@ -12,6 +12,7 @@ Le programme cherche à chaque fois le chemin le plus court pour se rendre d'une
 
 A voir sur Youtube : https://youtu.be/Rx7vND9eew4
 
+<iframe src="[https://www.youtube.com/embed/ID_YOUTUBE](https://youtu.be/Rx7vND9eew4)" frameborder="0" allowfullscreen></iframe>
 
 <img src="_dsc8407-0eacd.jpg" alt="Pont">
 
