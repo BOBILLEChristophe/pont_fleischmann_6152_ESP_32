@@ -14,6 +14,6 @@ A voir sur Youtube : https://youtu.be/Rx7vND9eew4
 
 <img src="[[assets/diagram.png](https://www.locoduino.org/IMG/jpg/_dsc8407.jpg)](https://www.locoduino.org/IMG/jpg/_dsc8407.jpg)" alt="pont" width="1000">
 
-
+<img src="[[assets/diagram.png](https://www.locoduino.org/IMG/jpg/_dsc8407.jpg)](https://www.locoduino.org/IMG/jpg/_dsc8407.jpg)" alt="Description de l'image">
 
 
