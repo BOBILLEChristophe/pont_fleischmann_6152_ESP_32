@@ -15,5 +15,3 @@ A voir sur Youtube : https://youtu.be/Rx7vND9eew4
 
 <img src="_dsc8407-0eacd.jpg" alt="Pont">
 
-
-<img src="_dsc8407-0eacd.jpg" alt="Description de l'image" width="600">
