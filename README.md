@@ -17,7 +17,7 @@ Regarder sur Youtube : https://youtu.be/Rx7vND9eew4
 
 Voici une démonstration vidéo de l'application :
 
-[![Voir la démonstration](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Voir la démonstration](_dsc8407-0eacd.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 
 Cliquez sur l'image pour voir la vidéo ou [regardez-la directement sur YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
