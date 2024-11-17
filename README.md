@@ -12,16 +12,5 @@ Le programme cherche à chaque fois le chemin le plus court pour se rendre d'une
 
 Regarder sur Youtube : https://youtu.be/Rx7vND9eew4
 
-
-# Mon Projet
-
-Voici une démonstration vidéo de l'application :
-
-[![Voir la démonstration](_dsc8407-0eacd.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
-
-Cliquez sur l'image pour voir la vidéo ou [regardez-la directement sur YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-
-
-
 <img src="_dsc8407-0eacd.jpg" alt="Pont">
 
